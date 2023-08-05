@@ -1,8 +1,7 @@
 // Path: PluginProcessor.h
 
-#include <cstdio>
-#import <stdio.h>
-#import <stdlib.h>
+#include <stdio>
+#include <stdlib>
 
 class IOPort(bool isOn, double volts) {
     public:
